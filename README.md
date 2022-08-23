@@ -8,12 +8,12 @@ GET:       /api/piezas
 POST:      /api/piezas  
            /api/proveedores 
            
-GET       /api/piezas/{codigo}  
+GET:       /api/piezas/{codigo}    
           /api/proveedores/{codigo} 
  
-PUT       /api/piezas/{codigo}
+PUT:       /api/piezas/{codigo}
           /api/proveedores/{codigo}  
 
-DELETE    /api/piezas/{codigo}    
+DELETE:    /api/piezas/{codigo}    
           /api/proveedores/{codigo}
    
