@@ -2,7 +2,7 @@
 
 
 GET:   
-           /api/piezas
+           /api/piezas  
            /api/proveedores 
            
            
