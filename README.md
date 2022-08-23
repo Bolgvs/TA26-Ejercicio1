@@ -22,6 +22,7 @@ GET:
           /api/proveedores/{codigo} 
          
 PUT:     
+
           /api/piezas/{codigo}  
           
           /api/proveedores/{codigo}  
