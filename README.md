@@ -15,7 +15,7 @@ GET:
           /api/proveedores/{codigo} 
  
 PUT:     
-           /api/piezas/{codigo}
+          /api/piezas/{codigo}  
           /api/proveedores/{codigo}  
 
 DELETE:     
